@@ -23,7 +23,7 @@ d3.json("mydata.json" , function (data){
 
 
 // ถ้าเป็น แบบ csv
-/* แค่เป็น ไปใช้ d3.csv และ ไฟล์ที่เข้าถึงเป็น csv
+// แค่เป็น ไปใช้ d3.csv และ ไฟล์ที่เข้าถึงเป็น csv
 d3.csv("mydata.csv" , function (data){
     const canvas = d3.select("body").append("svg").attr("width",500).attr("height",500)
     canvas.selectAll("rect").data(data)
@@ -42,5 +42,3 @@ d3.csv("mydata.csv" , function (data){
     .attr("y", function(d, i) { return i * 50 + 24; })
     .text(function (d) { return d.name })
 })
-
-*/
