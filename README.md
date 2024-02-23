@@ -75,7 +75,7 @@ Contributions to improve and expand this beginner's guide are welcome. Feel free
 This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Authors:
-- [Your Name/Your Organization]
+- Tanabordee Pateepbutsagon
 
 ## Acknowledgements:
 - Special thanks to d3Vienno
